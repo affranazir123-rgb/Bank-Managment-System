@@ -1,5 +1,3 @@
-# Bank-Managment-System
-
 # Bank Management System (Java + MySQL)
 
 A GUI-based ATM simulation project built using **Java Swing** and **JDBC (MySQL)**.  
