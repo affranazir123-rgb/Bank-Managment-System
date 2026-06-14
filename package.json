@@ -1,0 +1,23 @@
+{
+  "name": "bank-managment-system",
+  "version": "1.0.0",
+  "description": "A GUI-based ATM simulation project built using **Java Swing** and **JDBC (MySQL)**.   This project allows users to perform basic banking operations like deposit, withdrawal, check balance, and view mini statements.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/affranazir123-rgb/Bank-Managment-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/affranazir123-rgb/Bank-Managment-System/issues"
+  },
+  "homepage": "https://github.com/affranazir123-rgb/Bank-Managment-System#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3"
+  }
+}
